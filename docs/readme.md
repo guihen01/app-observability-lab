@@ -1,7 +1,4 @@
 
-Voici un **README.md propre, structuré et prêt pour GitHub**, basé sur ton document , avec une présentation plus “projet pro / portfolio” (important pour ton objectif cloud senior).
-
----
 
 # 🚀 Kubernetes Observability Lab
 
