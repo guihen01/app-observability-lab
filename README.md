@@ -16,6 +16,8 @@ Ce lab démontre une chaîne complète **Cloud Native observability + GitOps** :
 * Visualisation avec Grafana
 * Déploiement GitOps avec Argo CD
 
+Based on the lab guide provided in the PDF document.
+
 👉 Objectif : simuler un environnement **production-like** moderne.
 
 ---
